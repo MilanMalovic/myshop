@@ -1,0 +1,21 @@
+/*styles for my shopsite*/
+
+*{
+   font-family: Verdana, "Trebuchet MS" , Swiss, sans-serif;
+   color: #363636;
+}
+
+
+body{
+    background: #cfcfcf;
+    margin: 0;
+}
+
+h1,h2,h3{
+    text-align: center;
+    color: #9f0000;
+}
+
+header{
+    background: #9c9c9c;
+}
